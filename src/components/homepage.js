@@ -1,5 +1,4 @@
 import React from 'react';
-import Background from '../assets/Pozadina.png';
 import AI from '../assets/Mozak.png';
 import AiIcon from '../assets/artificial-intelligence.png';
 import AiCrosswalk from '../assets/slikZaWeb.png';
