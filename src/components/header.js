@@ -6,7 +6,7 @@ function Header(){
         <header className='header'>
             <section className='header-section-inner'>
                 <div className='header-div'>
-                    <h2>AI image<br/>tester</h2>
+                    <h2 className='logo-text'>AI image<br/>tester</h2>
                 </div>
                 <div className='header-div'>
                     <nav className='navigation'>
@@ -24,7 +24,7 @@ function Header(){
                     </nav>
                 </div>
                 <div className='header-div'>
-                    <h2>Portfolio</h2>
+                    <h2><a href='http://tonidedic.com.hr/'>Portfolio</a></h2>
                 </div>
             </section>
         </header>

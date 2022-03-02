@@ -24,7 +24,7 @@ function Footer(){
                         </ul>
                     </div>
                     <div>
-                        <h2 className='footer-title'>Portfolio</h2>
+                        <h2 className='footer-title'><a href='http://tonidedic.com.hr/'>Portfolio</a></h2>
                     </div>
                 </div>
             </section>
